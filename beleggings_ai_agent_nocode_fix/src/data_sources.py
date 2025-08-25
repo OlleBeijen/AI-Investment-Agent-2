@@ -1,0 +1,1 @@
+def fetch_prices(tickers, lookback_days=365): return {}

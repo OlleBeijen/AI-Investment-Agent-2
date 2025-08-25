@@ -1,0 +1,1 @@
+def run_day(cfg): return {}
